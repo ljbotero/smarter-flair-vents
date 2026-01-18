@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+.codex/
+eficiency_export.json
+smarter_flair_vents_efficiency_debug.json
+smart_vents_dashboard.yaml
+*.log
+.DS_Store
